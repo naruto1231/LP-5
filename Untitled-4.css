@@ -1,0 +1,196 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	text-align: center;
+	background: black;
+}
+
+.wrapper{
+	width: 1200px;
+	margin: 0 auto;
+	text-align:left;
+	
+}
+.header{
+	height: 150px;
+	flaot:left;
+}
+.header h1{
+	margin-top:20px;
+}
+.header ul {
+	margin-bottom: 50px;
+	text-align: center;
+	margin-right: 100px;
+	color: aliceblue;
+
+	
+	
+}
+.header ul li{
+	display: inline-block;
+	float: right;
+	font-size: 30px;
+	margin-right: 30px;
+	
+	
+}
+
+.header ul li:hover{
+	color: aqua;
+}
+
+.header h1{
+	margin-left: 40px;
+	margin-top: 10px;
+	color: aliceblue;
+}
+
+
+
+
+
+
+
+
+.main-logo{
+	margin-top: 10px;
+	padding: 5px;
+	margin-top: 20px;
+	width: 900px;
+	margin:0 auto;
+	border-radius: 20px;
+	border: 1px solid white;
+}
+
+
+.main-1 h2{
+	color: aliceblue;
+	margin-top: 40px;
+	margin-left: 20px;
+	background: #000000;
+	
+}
+
+
+.main-1 p{
+	
+	width: 800px;
+	margin-left: 10px;
+	display: inline-block;
+	color: aliceblue;
+	float:left;
+	background: #000000;
+	margin-top: 20px;
+	border-radius: 20px;
+	border: 1px solid #F3F3F3;
+	padding: 20px;
+}
+
+.aside{
+	color: aliceblue;
+		width: 300px;
+	float:right;
+	margin-right: 20px;
+	margin-top: 10px;
+	border-radius: 10px;
+	
+}
+
+
+.side1{
+	color: aliceblue;
+	background: #000000;
+	border-radius: 10px;
+	border: 1px solid #F3F3F3;
+}
+
+
+
+
+.side1 h2{
+	margin-top:20px;
+	background:red;
+	width: 100px;
+	margin-left:100px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+	
+}
+
+.side1 p{
+	text-align: center;
+}
+.side2{
+	margin-top: 20px;
+	background: #000000;
+	border-radius: 10px;
+	border: 1px solid #F3F3F3;
+	padding:50px;
+	margin-right: 0px;
+	
+}
+
+.side2 h2{
+	
+	text-align: center;
+}
+.main{
+	
+	color: aliceblue;
+	width: 800px;
+	margin-left: 10px;
+	display: inline-block;
+	color: aliceblue;
+	float:left;
+	background: #000000;
+	margin-top: 20px;
+	border-radius: 20px;
+	
+}
+.main-1 h2{
+	margin-right: 400px
+}
+.main p {
+border: 1px solid #F3F3F3;
+	padding: 10px;
+	width: 800px;
+	border-radius: 20px;
+	float:left;
+}
+
+
+.fotter {
+	width: 1200px;
+
+	
+}
+.fotter ul{
+	margin-top: 40px;
+	display: inline-block;
+	border: 1px solid #F3F3F3;
+	width: 1200px;
+	border-radius: 20px;
+	text-align: center;
+}
+
+
+.fotter ul li{
+	color: aliceblue;
+	display: inline-block;
+   font-size: 30px;
+	margin-left: 80px
+	
+}
+
+
+
+
+
+
+
+
+
+
+
