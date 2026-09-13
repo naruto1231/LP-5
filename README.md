@@ -1,17 +1,21 @@
-LP-5
+# LP-5
 
 シンプルな静的サイトです。
 
-概要
+## 概要
 
 HTML / CSS / JavaScript のみで構成された静的サイトです。Bootstrap をベースにレイアウトを組み、jQuery と Lightbox で画像表示などのインタラクションを実装しています。
 
-技術スタック
-HTML / CSS / JavaScript
-Bootstrap
-jQuery
-Lightbox.js
-ディレクトリ構成
+## 技術スタック
+
+- HTML / CSS / JavaScript
+- Bootstrap
+- jQuery
+- Lightbox.js
+
+## ディレクトリ構成
+
+```
 .
 ├── index.html          # メインページ
 ├── bootstrap.min.css   # Bootstrap スタイルシート
@@ -20,19 +24,25 @@ Lightbox.js
 ├── popper.min.js
 ├── lightbox.css / lightbox.js  # 画像のライトボックス表示
 └── 画像ファイル各種
-開発
+```
 
-特別なビルド環境は不要です。index.html をブラウザで開けば表示を確認できます。
+## 開発
 
-Grunt を使ったタスクランナー設定 (Gruntfile.js) も含まれています。
+特別なビルド環境は不要です。`index.html` をブラウザで開けば表示を確認できます。
 
-bash
+Grunt を使ったタスクランナー設定 (`Gruntfile.js`) も含まれています。
+
+```bash
 npm install
 grunt
-デプロイ
+```
 
-デプロイ手順は DEPLOY.md を参照してください。GitHub Pages でホスティングしています。
+## デプロイ
 
-ライセンス
+デプロイ手順は [DEPLOY.md](./DEPLOY.md) を参照してください。GitHub Pages でホスティングしています。
 
-MIT License
+公開URL: https://naruto1231.github.io/LP-5/
+
+## ライセンス
+
+[MIT License](./LICENSE)
