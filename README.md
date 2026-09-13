@@ -30,8 +30,7 @@ bash
 npm install
 grunt
 デプロイ
-
-デプロイ手順は DEPLOY.md を参照してください。GitHub Pages でホスティングしています。
+練習用サイト、ポートフォリオ的なもの
 
 ライセンス
 
